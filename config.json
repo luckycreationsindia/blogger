@@ -1,0 +1,17 @@
+{
+  "productname": "Blogger",
+  "productnameshort": "blogger",
+  "serverHost": "localhost",
+  "origin": "http://localhost:3000",
+  "baseUrlPath": "/api/v1",
+  "uploadPath": "/Users/luckycreations/FileUploads/Blogger/Uploads",
+  "imageRootUrl": "files/",
+  "loadLimit": 10,
+  "mongo": {
+    "host": "localhost",
+    "port": 27017,
+    "db": "blogger"
+  },
+  "sessionSecret": "Bl0gG3R@utHEnt!cAT!0n@123##@!321$987",
+  "serverport": 3000
+}
